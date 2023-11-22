@@ -13,3 +13,7 @@ This is the Linux friendly project made on Ubuntu 20.4
 open terminal and run following commands : 
 
 python3 loading.py
+
+
+Under Guidance 
+Prof. Trishna Ugale and Prof. Vinit Tribhuvan
